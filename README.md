@@ -2,7 +2,7 @@
 
 <img src="dashboard_concept_v0.0.jpg" alt="DashboardConcept">
 
-# REAL ESTATE ANALYSIS
+# CRIME ANALYSIS
 
 <h3>Project Overview:</h3> 
 The San Francisco police department takes note of crime incidents within their jurisdiction in terms of the date the crime occurred, the type of crime, and resolution et cetera. Other functions include having an oversight of crime per region in order to know how to allocate resources. This project seeks to provide insights into findings in the crime. These include: 
@@ -13,15 +13,17 @@ Identification of hot/cold spots.
 
 <br>
 <section>
-     
-    <p> Analysis on real estate properties. 
-        <a href="https://www.youtube.com" target="_blank"> YouTube link</a>
-         <a href="https://www.youtube.com" target="_blank"> Twitter link</a>
+  <p> Analysis on vitals taken from admitted patients in order to determine the risks categories of admitted patients.</p>
     </p>
+        <a href="https://github.com/auds-hobbies/dashboard_crime_geo_visualization" target="_blank"> GitHub </a>,
+        <a href="https://www.youtube.com" target="_blank"> Twitter</a>,
+        <a href="https://www.youtube.com" target="_blank"> YouTube</a>
+    </p>   
+  
     <div style="background-color: blue; width: 150 px; float: left; height: 150 px;">
     <!-- Content for the blue div goes here -->
-     <img src="ttps://github.com/auds-hobbies/p2_real_estate/blob/main/Screenshot%20power%20bi%20dashboard%20real%20estate1.png?raw=true"  width = "300"  />
-    <img src="https://github.com/auds-hobbies/p2_real_estate/blob/main/Screenshot%20power%20bi%20dashboard%20real%20estate2.png?raw=true"  width = "350"  />
+     <img src="https://github.com/auds-hobbies/dashboard_crime_geo_visualization/blob/main/Screenshot%20crime%20analytics2.png?raw=true"  width = "300"  />
+    <img src="https://github.com/auds-hobbies/dashboard_crime_geo_visualization/blob/main/Screenshot%20crime%20analytics2.png?raw=true"  width = "350"  />
     </div>
 </section>
 
@@ -29,11 +31,11 @@ To be completed
 ### Video 
 Click on the picture below to view a video of the Excel Dashboard, Power BI Dashboard, and Heart Risk Predictor web app:
 
-[![Watch the video](https://github.com/auds-hobbies/p2_real_estate/blob/main/Screenshot%20power%20bi%20dashboard%20real%20estate2.png)](https://youtu.be/pFVV-cahsBc) 
+[![Watch the video](https://github.com/auds-hobbies/dashboard_crime_geo_visualization/blob/main/Screenshot%20crime%20analytics2.png)](https://youtu.be/pFVV-cahsBc) 
 
 
 - Interactive Power BI Dashboard:
-<img src="https://github.com/auds-hobbies/p1_heart_risk_predictor/blob/main/github_heart_risk_power_bi_dashboard.png " width="728"/> 
+<img src="https://github.com/auds-hobbies/dashboard_crime_geo_visualization/blob/main/Screenshot%20crime%20analytics2.png " width="728"/> 
 
 
 
@@ -61,8 +63,8 @@ Statistical Analysis: The total number of crime incidents and kinds of crime wer
 
 
 <h3>Results and Insights:</h3>
-- Interactive Power BI Dashboard:
-<img src="https://github.com/auds-hobbies/p1_heart_risk_predictor/blob/main/github_heart_risk_power_bi_dashboard.png " width="728"/> 
+
+<img src="https://github.com/auds-hobbies/dashboard_crime_geo_visualization/blob/main/Screenshot%20crime%20analytics2.png " width="728"/> 
 
 
 <h3>Future Developments:</h3>
