@@ -3,7 +3,7 @@ Below is a list of my Data Science projects accomplished with tools such as pyth
 
 <br> 
 <section>
-<h3> Heart Risk Predictor --- Django Web App, Power BI Dashboard, and Excel Dashboard </h3> 
+<h3> San Francisco Crime Analysis (Power BI Dashboard) </h3> 
 <p> A machine learning web app that helps doctors and nurses predict the heart risk of a patient. </p> 
 <ul>
         <li> <b>Data Source(s): </b>San Francisco crime incidents; San Francisco shape files   </li>
@@ -23,6 +23,7 @@ Below is a list of my Data Science projects accomplished with tools such as pyth
      <img src="https://github.com/auds-hobbies/dashboard_crime_geo_visualization/blob/main/github_crime_analysis_power_bi_dashboard_page1.png"  width = "250"  />
     <img src="https://github.com/auds-hobbies/dashboard_crime_geo_visualization/blob/main/github_crime_analysis_power_bi_dashboard_page2.png?raw=true"  width = "280"  />
      <img src="https://github.com/auds-hobbies/dashboard_crime_geo_visualization/blob/main/github_crime_analysis_power_bi_dashboard_page6.png?raw=true"  width = "280"  />
+     <img src="https://github.com/auds-hobbies/dashboard_crime_geo_visualization/blob/main/zzz_github_crime_report_page1.png?raw=true"  width = "280"  />
     
 </div>
 </section> 
