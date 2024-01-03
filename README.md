@@ -11,7 +11,7 @@ The San Francisco police department takes note of crime incidents within their j
  
 <br> 
 <section>
-<h3> San Francisco Crime Analysis (Power BI Dashboard) </h3> 
+<h3> Data & Approach Summary: San Francisco Crime Analysis (Power BI Dashboard) </h3> 
 <p> A machine learning web app that helps doctors and nurses predict the heart risk of a patient. </p> 
 <ul>
         <li> <b>Data Source(s): </b>San Francisco crime incidents; San Francisco shape files   </li>
