@@ -35,7 +35,7 @@ Click on the picture below to view a video of the Excel Dashboard, Power BI Dash
 
 
 - Interactive Power BI Dashboard:
-<img src="https://github.com/auds-hobbies/dashboard_crime_geo_visualization/blob/main/Screenshot%20crime%20analytics2.png " width="728"/> 
+<img src="https://github.com/auds-hobbies/dashboard_crime_geo_visualization/blob/main/github_crime_analysis_power_bi_dashboard_page1.png " width="528"/> 
 
 
 
