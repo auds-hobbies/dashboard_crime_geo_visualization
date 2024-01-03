@@ -1,3 +1,62 @@
+# CRIME (SPATIAL) ANALYSIS 
+Below is a list of my Data Science projects accomplished with tools such as python, HTML, CSS, Django and a number of algorithms etc:  
+
+<br> 
+<section>
+<h3> Heart Risk Predictor --- Django Web App, Power BI Dashboard, and Excel Dashboard </h3> 
+<p> A machine learning web app that helps doctors and nurses predict the heart risk of a patient. </p> 
+<ul>
+        <li> <b>Data Source(s): </b>San Francisco crime incidents; San Francisco shape files   </li>
+        <li> <b>Data Science Techniques: </b>Classification   </li>
+        <li> <b>Geo - Spatial Techniques: </b> spatial autocorrelation - WIP   </li>
+        <li> <b>Approach (Methodology, Algorithms & Packages, Results): </b>Engineered new features with python; merged shape files with crime incidents data; ---------------------------- REMOVE ------------ data transforms using label encoder; feature selection with Random Forest feature importance etc. Compared multiple models using algorithms such as Logistic Regression, SVM, Random Forest etc, to arrive at Random Forest as the optimal model with accuracy ~ 82.6% and precision ~ 82.67% on the training set (<i>while ~80.2% and ~76.7% on the test set.</i>)    </li>
+        <li> <b>Tools:</b> Python, Power BI (DAX)  </li>
+        <li> <b>Outcomes / Outputs:</b> Power BI dashboard     </li>
+</ul>
+<p> The python code, pictures, video (demo), and/or a final report can be seen at the following links:
+        <a href="https://github.com/auds-hobbies/p1_heart_risk_predictor" target="_blank"> GitHub(Python Code etc) </a>,
+        <a href="https://www.youtube.com/watch?v=fBfwwSnnmyA"> YouTube (Demo)</a>,
+        <a href="#report" target="_blank"> Report (PowerPoint)</a>
+</p>
+<div style="width: 350 px; float: left; height: 350 px;">
+    <!-- Content for the blue div goes here -->
+     <img src="https://github.com/auds-hobbies/dashboard_crime_geo_visualization/blob/main/github_crime_analysis_power_bi_dashboard_page1.png"  width = "250"  />
+    <img src="https://github.com/auds-hobbies/dashboard_crime_geo_visualization/blob/main/github_crime_analysis_power_bi_dashboard_page1.png?raw=true"  width = "300"  />
+     <img src="https://github.com/auds-hobbies/dashboard_crime_geo_visualization/blob/main/github_crime_analysis_power_bi_dashboard_page1.png?raw=true"  width = "300"  />
+    
+</div>
+</section> 
+
+
+
+
+
+
+
+
+
+
+
+# ---------- END OF TEST --------------- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # dashboard_crime_geo_visualization
 
 <img src="dashboard_concept_v0.0.jpg" alt="DashboardConcept">
