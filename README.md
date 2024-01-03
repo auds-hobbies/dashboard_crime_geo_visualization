@@ -1,6 +1,17 @@
 # CRIME (SPATIAL) ANALYSIS 
-Below is a list of my Data Science projects accomplished with tools such as python, HTML, CSS, Django and a number of algorithms etc:  
+<h3>Project Overview:</h3> 
+The San Francisco police department takes note of crime incidents within their jurisdiction in terms of the date the crime occurred, the type of crime, and resolution et cetera. Other functions include having an oversight of crime per region in order to know how to allocate resources. This project seeks to provide insights into findings in the crime. These include: 
+<ul>
+        <li>Insights and visualization on crime across the districts. </li>
+        <li>Identification of kinds of problems in the districts (statistical analysis).  </li>
+        <li>Identification of locations with high incidents of crime (spatial analysis / hot/cold spots analysis).  </li>
+        <li>Top 3 categories of crime in a district. </li>
+        <li>Top 3 addresses with high crime </li>
+</ul>
 
+Insights and visualization on crime across the districts.
+Identification of kinds of problems in the districts (statistical analysis). 
+Identification of hot/cold spots.  
 <br> 
 <section>
 <h3> San Francisco Crime Analysis (Power BI Dashboard) </h3> 
@@ -64,12 +75,7 @@ Below is a list of my Data Science projects accomplished with tools such as pyth
 
 # CRIME ANALYSIS
 
-<h3>Project Overview:</h3> 
-The San Francisco police department takes note of crime incidents within their jurisdiction in terms of the date the crime occurred, the type of crime, and resolution et cetera. Other functions include having an oversight of crime per region in order to know how to allocate resources. This project seeks to provide insights into findings in the crime. These include: 
 
-Insights and visualization on crime across the districts.
-Identification of kinds of problems in the districts (statistical analysis). 
-Identification of hot/cold spots.  
 
 <br>
 <section>
