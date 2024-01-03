@@ -8,10 +8,7 @@ The San Francisco police department takes note of crime incidents within their j
         <li>Top 3 categories of crime in a district. </li>
         <li>Top 3 addresses with high crime </li>
 </ul>
-
-Insights and visualization on crime across the districts.
-Identification of kinds of problems in the districts (statistical analysis). 
-Identification of hot/cold spots.  
+ 
 <br> 
 <section>
 <h3> San Francisco Crime Analysis (Power BI Dashboard) </h3> 
@@ -20,10 +17,13 @@ Identification of hot/cold spots.
         <li> <b>Data Source(s): </b>San Francisco crime incidents; San Francisco shape files   </li>
         <li> <b>Data Science Techniques: </b>Classification   </li>
         <li> <b>Geo - Spatial Techniques: </b> spatial autocorrelation - WIP   </li>
-        <li> <b>Approach (Methodology, Algorithms & Packages, Results): </b>Engineered new features with python; merged shape files with crime incidents data; ---------------------------- REMOVE ------------ data transforms using label encoder; feature selection with Random Forest feature importance etc. Compared multiple models using algorithms such as Logistic Regression, SVM, Random Forest etc, to arrive at Random Forest as the optimal model with accuracy ~ 82.6% and precision ~ 82.67% on the training set (<i>while ~80.2% and ~76.7% on the test set.</i>)      </li>
+        <li> <b>Approach (Methodology, Algorithms & Packages, Results): </b>Engineered new features with python; merged shape files with crime incidents data; used DBSCAN for clustering of incidents ---------------------------- REMOVE ------------ data transforms using label encoder; feature selection with Random Forest feature importance etc. Compared multiple models using algorithms such as Logistic Regression, SVM, Random Forest etc, to arrive at Random Forest as the optimal model with accuracy ~ 82.6% and precision ~ 82.67% on the training set (<i>while ~80.2% and ~76.7% on the test set.</i>)      </li>
         <li> <b>Tools:</b> Python, Power BI (DAX)  </li>
         <li> <b>Outcomes / Outputs:</b> Power BI dashboard     </li>
 </ul>
+
+
+<h3> Source Files </h3> 
 <p> The python code, pictures, video (demo), and/or a final report can be seen at the following links:
         <a href="https://github.com/auds-hobbies/p1_heart_risk_predictor" target="_blank"> GitHub(Python Code etc) </a>,
         <a href="https://www.youtube.com/watch?v=fBfwwSnnmyA"> YouTube (Demo)</a>,
@@ -40,16 +40,29 @@ Identification of hot/cold spots.
 </section> 
 
 
+<h3>Some Results and Insights:</h3>
+
+<img src="https://github.com/auds-hobbies/dashboard_crime_geo_visualization/blob/main/Screenshot%20crime%20analytics2.png " width="528"/> 
+
+
+<h3>Future Developments:</h3>
+Geo-Spatial Analysis: To be completed 
+
+Hot/cold spot analysis
+NOTE:  Work is in progress on this dataset and will be updated in due course.
 
 
 
 
+<h3> YouTube Demo (Crime Analysis Power BI Dashboard) </h3> 
+Click on the picture below to view a demonstration of the Power BI Dashboard created for this project:
+
+[![Watch the video](https://github.com/auds-hobbies/dashboard_crime_geo_visualization/blob/main/Screenshot%20crime%20analytics2.png)](https://youtu.be/pFVV-cahsBc) 
 
 
 
 
-
-# ---------- END OF TEST --------------- 
+# ---------- END OF SUMMARY --------------- 
 
 
 
