@@ -9,13 +9,7 @@ Below is a list of my Data Science projects accomplished with tools such as pyth
         <li> <b>Data Source(s): </b>San Francisco crime incidents; San Francisco shape files   </li>
         <li> <b>Data Science Techniques: </b>Classification   </li>
         <li> <b>Geo - Spatial Techniques: </b> spatial autocorrelation - WIP   </li>
-        <li> <b>Approach (Methodology, Algorithms & Packages, Results): </b>Engineered new features with python; merged shape files with crime incidents data; ---------------------------- REMOVE ------------ data transforms using label encoder; feature selection with Random Forest feature importance etc. Compared multiple models using algorithms such as Logistic Regression, SVM, Random Forest etc, to arrive at Random Forest as the optimal model with accuracy ~ 82.6% and precision ~ 82.67% on the training set (<i>while ~80.2% and ~76.7% on the test set.</i>)    
-                        <ul>
-                                <li> <b>Feature Engineering: </b> TBA</li>
-                                <li> <b>Spatial Feature Engineering: </b></li>
-                        </ul>
-        
-        </li>
+        <li> <b>Approach (Methodology, Algorithms & Packages, Results): </b>Engineered new features with python; merged shape files with crime incidents data; ---------------------------- REMOVE ------------ data transforms using label encoder; feature selection with Random Forest feature importance etc. Compared multiple models using algorithms such as Logistic Regression, SVM, Random Forest etc, to arrive at Random Forest as the optimal model with accuracy ~ 82.6% and precision ~ 82.67% on the training set (<i>while ~80.2% and ~76.7% on the test set.</i>)      </li>
         <li> <b>Tools:</b> Python, Power BI (DAX)  </li>
         <li> <b>Outcomes / Outputs:</b> Power BI dashboard     </li>
 </ul>
